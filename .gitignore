@@ -1,0 +1,8 @@
+# .NET Core specific
+*.vshost.exe
+*.user
+*.pdb
+*.suo
+bin/
+obj/
+Properties/launchSettings.json
