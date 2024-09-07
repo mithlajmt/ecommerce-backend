@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|c:\\users\\lenovo\\source\\repos\\backendecom\\backendecom\\repositories\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|solutionrelative:backendecom\\repositories\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|c:\\users\\lenovo\\source\\repos\\backendecom\\backendecom\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|solutionrelative:backendecom\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|c:\\users\\lenovo\\source\\repos\\backendecom\\backendecom\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|solutionrelative:backendecom\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|c:\\users\\lenovo\\source\\repos\\backendecom\\backendecom\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|solutionrelative:backendecom\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|c:\\users\\lenovo\\source\\repos\\backendecom\\backendecom\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|solutionrelative:backendecom\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|c:\\users\\lenovo\\source\\repos\\backendecom\\backendecom\\services\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|c:\\users\\lenovo\\source\\repos\\backendecom\\backendecom\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|solutionrelative:backendecom\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|c:\\users\\lenovo\\source\\repos\\backendecom\\backendecom\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|solutionrelative:backendecom\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD138D58-30E3-4C29-8B63-C5D98528B8D4}|backendecom\\backendecom.csproj|c:\\users\\lenovo\\source\\repos\\backendecom\\backendecom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +50,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "backendecom\\Repositories\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Implementation\\Repository.cs",
+              "RelativeToolTip": "backendecom\\Repositories\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAAMAAABYZmZmZuYswAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:27:40.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "backendecom\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "backendecom\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:09:43.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "backendecom\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "backendecom\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:06:03.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "backendecom\\Controllers\\WeatherForecastController.cs",
@@ -46,12 +95,11 @@
               "RelativeToolTip": "backendecom\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T12:46:15.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T12:46:15.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Program.cs",
               "RelativeDocumentMoniker": "backendecom\\Program.cs",
@@ -59,38 +107,35 @@
               "RelativeToolTip": "backendecom\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T11:49:12.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "backendecom\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Controllers\\AuthController.cs*",
-              "RelativeToolTip": "backendecom\\Controllers\\AuthController.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T11:29:35.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Services\\Test.cs",
-              "RelativeDocumentMoniker": "backendecom\\Services\\Test.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Services\\Test.cs*",
-              "RelativeToolTip": "backendecom\\Services\\Test.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABrAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T11:28:08.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T11:49:12.118Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backendecom\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backendecom\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:29:35.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Services\\Test.cs",
+              "RelativeDocumentMoniker": "backendecom\\Services\\Test.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Services\\Test.cs",
+              "RelativeToolTip": "backendecom\\Services\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:28:08.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "backendecom\\Services\\AuthService.cs",
@@ -98,8 +143,7 @@
               "RelativeToolTip": "backendecom\\Services\\AuthService.cs",
               "ViewState": "AQIAAA4AAABA/v////8swC0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T09:31:28.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T09:31:28.343Z"
             }
           ]
         }
