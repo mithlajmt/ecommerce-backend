@@ -1,11 +1,11 @@
-﻿
-using System.Linq.Expressions;
+﻿using System.Linq.Expressions;
+using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace backendecom.Repositories
 {
     public interface IRepository<T> where T : class
     {
-        // Basic CRUD operations
         Task<T> GetByIdAsync(int id);
         Task<IEnumerable<T>> GetAllAsync();
         Task AddAsync(T entity);

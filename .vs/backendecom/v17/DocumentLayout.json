@@ -54,9 +54,9 @@
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Implementation\\Repository.cs",
               "RelativeDocumentMoniker": "backendecom\\Repositories\\Implementation\\Repository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Implementation\\Repository.cs",
-              "RelativeToolTip": "backendecom\\Repositories\\Implementation\\Repository.cs",
-              "ViewState": "AQIAAAMAAABYZmZmZuYswAYAAAAAAAAA",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Implementation\\Repository.cs*",
+              "RelativeToolTip": "backendecom\\Repositories\\Implementation\\Repository.cs*",
+              "ViewState": "AQIAAAwAAACAMjMzM/MrwBcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T13:27:40.252Z",
               "EditorCaption": ""
@@ -79,11 +79,12 @@
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "backendecom\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "backendecom\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\backendecom\\backendecom\\Repositories\\Interfaces\\IRepository.cs*",
+              "RelativeToolTip": "backendecom\\Repositories\\Interfaces\\IRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T13:06:03.681Z"
+              "WhenOpened": "2024-09-07T13:06:03.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
