@@ -3,6 +3,8 @@
 *.user
 *.pdb
 *.suo
+.vs/
 bin/
 obj/
 Properties/launchSettings.json
+
